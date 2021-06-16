@@ -10,9 +10,7 @@
   <br>
   
   
-  <a href="">
-    <img src="/images/carrom/github-logo.jpeg" width="100em">
-    <br>
+  <a href="https://github.com/KhaledAlharthi/CarromAR"><img src="/images/carrom/github-logo.jpeg" width="100em"><br>
     للإطلاع على الشفرة البرمجية Source Code
   </a>
   
@@ -64,6 +62,8 @@
   <p>
     أما بالنسبة لبقية الأقراص يتم حساب إحداثيات كل قرص عبر حساب دوران الجسم حول نقطة الأصل (القرص الأحمر) وإضافة قيمة ثابتة لنصف القطر Radius حتى تترتب الأقراص على بعد مسافة محددة عن نقطة الأصل لكن لأجل حساب دوران الجسم حول نقطة الأصل يجب أن يكون لدينا زاوية الدوران وبما أننا نرتب الأقراص بشكل دائري فتكون زاوية الدوران لكل قرص هي ببساطة مجموع زوايا الدائرة 360 مقسمة على عدد الأقراص مضروبة في مكان القرص ذاته. اذا قلنا أن عدد الأقراص هو 6 بالتالي زاوية الدوران:
   </p>
+  <div align="center" width="100%"><img width="150em" src="/images/carrom/carrom-calculation.png"></div>
+  <br>
   <div align="center" width="100%"><img src="/images/carrom/04.gif"></div>
   
   
