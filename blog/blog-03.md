@@ -18,7 +18,6 @@
 سوف يُعد حلقة مفصلة أكثر عن المنتج الأولي القابل للإستخدام – MVP
   </p>
 <br>
-<br>
     <a href="https://www.youtube.com/watch?v=AGLHmDaFTBA"><img width="150em" src="/images/youtube-logo.png"></a>
   <br>
   <a href="https://www.youtube.com/watch?v=AGLHmDaFTBA"><img src="https://img.youtube.com/vi/AGLHmDaFTBA/0.jpg"></a>
