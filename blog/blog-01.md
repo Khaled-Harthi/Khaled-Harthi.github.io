@@ -6,5 +6,5 @@
 <br>
 <br>
 
-  <a href="https://www.billionpodcast.com/1347244/6713056-"><img src="images/billionpodcast-data.png"></a>
+  <a href="https://www.billionpodcast.com/1347244/6713056-"><img src="/images/billionpodcast-data.png"></a>
 </div>
