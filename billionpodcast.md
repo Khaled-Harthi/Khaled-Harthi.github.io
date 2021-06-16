@@ -1,10 +1,10 @@
 <div dir="auto">
   <h1>النفط الجديد: البيانات</h1>
-  </hr>
+  <hr>
 سعدت بالحديث مع بادي عمار في بودكاست مليار عن أهمية البيانات لمدراء المنتجات التقنية وشفنا كيف غيرت البيانات حياتنا اليومية و تناقشنا أيضاً عن خصوصية المستخدمين والحدود الأخلاقية لجمع واستخدام البيانات
 <br>
 <br>
 <br>
 
-[![Buzzsprout Player](images/billionpodcast-data.png)](https://www.billionpodcast.com/1347244/6713056-)
+  <a href="https://www.billionpodcast.com/1347244/6713056-"><img src="images/billionpodcast-data.png"></a>
 </div>
